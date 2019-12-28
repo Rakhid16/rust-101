@@ -8,13 +8,19 @@
 <p align="center">
 <img src="https://i.imgur.com/XRvePeI.jpg"><br>
 Stackoverflow Developer Survey 2016
+</p>
 
+<p align="center">
 <img src="https://i.imgur.com/6tT1KKq.jpg"><br>
 Stackoverflow Developer Survey 2017
+</p>
 
+<p align="center">
 <img src="https://i.imgur.com/YGq8WwL.jpg"><br>
 Stackoverflow Developer Survey 2018
+</p>
 
+<p align="center">
 <img src="https://i.imgur.com/mLywFug.jpg"><br>
 Stackoverflow Developer Survey 2019
 </p>
